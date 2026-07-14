@@ -1,0 +1,1226 @@
+﻿item_id,name,field_3,field_4,carry_type,field_6,category_or_type_id,field_8,field_9,field_10,field_11,source_file
+0,Grapes,,44459,Carry,0,51,1,1,1774,-1,AllItems.txt
+1,Apple,,44208,Carry,0,5,5,1,1524,-1,EAItems.txt
+2,Gassy Apple,,44213,Carry,0,5,1,1,1529,-1,EAItems.txt
+3,Pork Chop,,44270,Carry,0,4,10,1,1590,-1,EAItems.txt
+4,Carrot,,44204,Carry,0,30,3,1,1530,-1,EAItems.txt
+5,Cabbage,,44205,Carry,0,30,3,1,1531,-1,EAItems.txt
+6,Milk,,44216,Carry,0,38,1,1,1536,-1,EAItems.txt
+7,Water,,44332,Carry,0,38,0,1,1634,-1,EAItems.txt
+8,Strawberry,,44210,Carry,0,5,3,1,1526,-1,EAItems.txt
+9,Blueberry,,44211,Carry,0,5,3,1,1527,-1,EAItems.txt
+10,Nightberry,,44212,Carry,0,5,9,1,1528,-1,EAItems.txt
+11,Wheat Seed,,44318,Carry,0,6,4,1,1620,-1,EAItems.txt
+12,Carrot Seed,,44317,Carry,1,6,4,1,1619,-1,EAItems.txt
+13,Cabbage Seed,,44316,Carry,2,6,4,1,1618,-1,EAItems.txt
+14,Wheat,,44206,Carry,0,2,3,1,1532,-1,EAItems.txt
+15,Barley,,44460,Carry,0,2,3,1,1775,-1,EAItems.txt
+16,Wool,,29717,Carry,0,2,1,1,-1,-1,AllItems.txt
+17,Morvenna Effigy,,44842,NoCarry,0,36,20,1,2125,-1,EAItems.txt
+18,Luminous gel,,29719,Carry,0,7,1,1,-1,-1,AllItems.txt
+19,Aurore Effigy,,44831,NoCarry,0,36,20,1,2121,-1,EAItems.txt
+20,Mushroom,,44214,Carry,0,30,6,1,1534,-1,EAItems.txt
+21,Rainbow Mushroom,,44215,Carry,0,30,10,1,1535,-1,EAItems.txt
+22,Bone,,44272,Carry,0,7,0,1,1592,-1,EAItems.txt
+23,Lantern,,44254,Carry,0,3,1,1,1574,-1,EAItems.txt
+24,Spade,,44253,Carry,0,3,5,1,1573,-1,AllItems.txt
+25,Sickle,,44252,Carry,0,3,3,1,1572,-1,AllItems.txt
+26,Watering Can,,44258,Carry,0,3,2,1,1578,-1,EAItems.txt
+27,Lute,,44269,Carry,0,3,100,1,1589,-1,EAItems.txt
+28,Slingshot,,44255,Carry,0,3,3,1,1575,-1,EAItems.txt
+29,Fishing Rod,,44260,Carry,0,3,0,1,1580,-1,EAItems.txt
+30,Ball,,44271,Carry,0,7,1,1,1591,-1,EAItems.txt
+31,Glass Jar,,44735,Carry,0,35,2,1,2039,-1,EAItems.txt
+32,Bucket,,29221,Carry,0,3,2,1,-1,-1,AllItems.txt
+33,Flask,,29830,Carry,0,3,1,1,-1,-1,AllItems.txt
+34,Pondlurker,,44279,Carry,0,27,3,1,1599,-1,EAItems.txt
+35,Rainfish,,44217,Carry,0,27,5,1,1537,-1,EAItems.txt
+36,Sleepers Zest,,44276,NoCarry,46,8,10,1,1596,-1,EAItems.txt
+37,Soup Ollard,,44276,NoCarry,47,8,10,1,1596,-1,EAItems.txt
+38,Mother's Milk Pudding,,44276,NoCarry,48,8,10,1,1596,-1,EAItems.txt
+39,Candlewych Green,,44276,NoCarry,49,8,10,1,1596,-1,EAItems.txt
+40,Bacon Surprise,,44276,Carry,50,8,10,1,1596,-1,EAItems.txt
+41,Edward's Munch,,44276,Carry,51,8,10,1,1596,-1,EAItems.txt
+42,Simpleton's Stew,,44276,NoCarry,52,8,10,1,1596,-1,EAItems.txt
+43,Everyman's Salad,,44276,NoCarry,53,8,10,1,1596,-1,EAItems.txt
+44,Arrest Stew,,44276,NoCarry,54,8,10,1,1596,-1,EAItems.txt
+45,The Brothy Grimm,,44276,Carry,55,8,10,1,1596,-1,EAItems.txt
+46,Sleepers Zest,,44234,Carry,0,44,19,1,1554,-1,EAItems.txt
+47,Soup Ollard,,44232,Carry,0,44,31,1,1552,-1,EAItems.txt
+48,Mother's Milk Pudding,,44231,Carry,0,42,38,1,1551,-1,EAItems.txt
+49,Candlewych Green,,44235,Carry,0,44,16,1,1555,-1,EAItems.txt
+50,Bacon Surprise,,44315,Carry,0,45,14,1,1617,-1,EAItems.txt
+51,Edward's Munch,,44319,Carry,0,42,24,1,1621,-1,EAItems.txt
+52,Simpleton's Stew,,44322,Carry,0,45,19,1,1624,-1,EAItems.txt
+53,Everyman's Salad,,44321,Carry,0,43,18,1,1623,-1,EAItems.txt
+54,Arrest Stew,,44314,Carry,0,45,20,1,1616,-1,EAItems.txt
+55,The Brothy Grimm,,44325,Carry,0,44,23,1,1627,-1,EAItems.txt
+56,Bluefish Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+57,Eel Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+58,Pike location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+59,Pike location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+60,Pike Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+61,Pondlurker location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+62,Shrinking,,44275,Carry,0,9,40,1,1595,-1,AllItems.txt
+63,Bluefish location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+64,Whistleroot,,44331,Carry,0,31,14,1,1633,-1,EAItems.txt
+65,Wheat Seed [pack of 4],,44318,Carry,0,6,1,1,1620,-1,AllItems.txt
+66,Carrot Seed [pack of 4],,44317,Carry,1,6,1,1,1619,-1,AllItems.txt
+67,Cabbage Seed [pack of 4],,44316,Carry,2,6,1,1,1618,-1,AllItems.txt
+68,Honey,,44333,Carry,0,38,4,1,1635,-1,EAItems.txt
+69,Tomato,,44264,Carry,0,5,5,1,1584,-1,EAItems.txt
+70,Legacy Old Bread,,29741,Carry,0,7,1,1,-1,-1,AllItems.txt
+71,Mess,,44326,Carry,0,10,1,1,1628,-1,AllItems.txt
+72,Pondlurker location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+73,Bluefish location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+74,Orb,,25164,Carry,0,7,0,1,-1,-1,EAItems.txt
+75,Rainstick,,44274,Carry,0,34,0,1,1594,-1,EAItems.txt
+76,Magic Bean,,44273,Carry,6,6,1000,1,1593,-1,EAItems.txt
+77,Barbel location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+78,Barbel location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+79,Barbel Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+80,Rainfish location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+81,Eel location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+82,Pondlurker Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+83,Salmon,,44645,Carry,0,27,8,1,1949,-1,EAItems.txt
+84,Tench,,25151,Carry,0,27,1,1,-1,-1,AllItems.txt
+85,Bluefish,,44278,Carry,0,27,11,1,1598,-1,EAItems.txt
+86,Dartfish,,25151,Carry,0,27,1,1,-1,-1,AllItems.txt
+87,Firefish,,44308,Carry,0,27,11,1,1673,-1,EAItems.txt
+88,Flagfish,,44307,Carry,0,27,13,1,1672,-1,EAItems.txt
+89,Silverscale,,44409,Carry,0,27,4,1,1724,-1,EAItems.txt
+90,Cursefish,,44327,Carry,0,27,17,1,1629,-1,EAItems.txt
+91,Moonfish,,44306,Carry,0,27,16,1,1671,-1,EAItems.txt
+92,Minnow,,44277,Carry,0,27,7,1,1597,-1,EAItems.txt
+93,Willowdown Farm Map,,44275,Carry,0,11,1,1,-1,-1,AllItems.txt
+94,Dreamers Nook Map,,25093,Carry,0,11,1,1,-1,-1,AllItems.txt
+95,The Incredible Shrinking Flan,,44276,NoCarry,98,8,6,1,1596,-1,EAItems.txt
+96,Little Sap,,44242,Carry,0,31,14,1,1562,-1,EAItems.txt
+97,Eel location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+98,The Incredible Shrinking Flan,,44365,Carry,0,41,44,1,1681,-1,EAItems.txt
+99,Chop Mat 1,,25125,Carry,0,12,1,1,-1,-1,AllItems.txt
+100,Chop Mat 2,,44281,Carry,0,12,1,1,1601,-1,AllItems.txt
+101,Chop Mat 3,,25125,Carry,0,12,1,1,-1,-1,AllItems.txt
+102,Chop Mat 4,,25125,Carry,0,12,1,1,-1,-1,AllItems.txt
+103,Chop Mat 5,,25125,Carry,0,12,1,1,-1,-1,AllItems.txt
+104,Grind Mat 1,,25125,Carry,0,13,1,1,-1,-1,AllItems.txt
+105,Grind Mat 2,,25125,Carry,0,13,1,1,-1,-1,AllItems.txt
+106,Grind Mat 3,,25125,Carry,0,13,1,1,-1,-1,AllItems.txt
+107,Grind Mat 4,,25125,Carry,0,13,1,1,-1,-1,AllItems.txt
+108,Grind Mat 5,,25125,Carry,0,13,1,1,-1,-1,AllItems.txt
+109,Chop Result Mat 1,,25125,Carry,0,14,1,1,-1,-1,AllItems.txt
+110,Chop Result Mat 2,,25125,Carry,0,14,1,1,-1,-1,AllItems.txt
+111,Chop Result Mat 3,,25125,Carry,0,14,1,1,-1,-1,AllItems.txt
+112,Cointail,,44621,Carry,0,27,5,1,1925,-1,EAItems.txt
+113,Mudkipper,,44436,Carry,0,27,5,1,1751,-1,EAItems.txt
+114,Gasbelly,,44437,Carry,0,27,11,1,1752,-1,EAItems.txt
+115,Weed Skimmer,,44622,Carry,0,27,3,1,1926,-1,EAItems.txt
+116,Turnip,,44434,Carry,0,30,5,1,1749,-1,EAItems.txt
+117,Marshmallow,,44418,Carry,0,31,6,1,1733,-1,EAItems.txt
+118,Garlic,,44419,Carry,0,31,5,1,1734,-1,EAItems.txt
+119,Shalewyrm,,0,Carry,0,27,12,1,-1,-1,AllItems.txt
+120,Gemeye,,0,Carry,0,27,20,1,-1,-1,AllItems.txt
+121,Pitchfickle,,0,Carry,0,27,5,1,-1,-1,AllItems.txt
+122,Moxy,,44786,Carry,0,30,14,1,2082,-1,EAItems.txt
+123,Pine Nut,,0,Carry,0,5,4,1,-1,-1,AllItems.txt
+124,Cunicorn,,0,Carry,0,30,10,1,-1,-1,AllItems.txt
+125,Swiftmarrow,,0,Carry,0,30,14,1,-1,-1,AllItems.txt
+126,Bogeyman Fungus,,44785,Carry,0,30,9,1,2081,-1,EAItems.txt
+127,Winterberry,,0,Carry,0,5,12,1,-1,-1,AllItems.txt
+128,Crystal Beans,,44856,Carry,0,5,15,1,2139,-1,EAItems.txt
+129,Veill,,44843,Carry,0,5,22,1,2126,-1,EAItems.txt
+130,Coriander,,44807,Carry,0,31,7,1,2103,-1,EAItems.txt
+131,Aloe Vera,,44808,Carry,0,31,6,1,2104,-1,EAItems.txt
+132,Rosemary,,0,Carry,0,31,2,1,-1,-1,AllItems.txt
+133,Dill,,0,Carry,0,31,2,1,-1,-1,AllItems.txt
+134,Tarragon,,0,Carry,0,31,2,1,-1,-1,AllItems.txt
+135,Milk Moss,,44804,Carry,0,31,10,1,2100,-1,EAItems.txt
+136,Dank Moss,,44805,Carry,0,31,8,1,2101,-1,EAItems.txt
+137,Sweet Moss,,44806,Carry,0,31,12,1,2102,-1,EAItems.txt
+138,Grape Jam,,44787,Carry,0,40,23,1,2083,-1,EAItems.txt
+139,Wingit Cream,,44287,Carry,0,20,1,1,1607,-1,AllItems.txt
+140,Vigorous Rub,,44287,Carry,0,20,1,1,1607,-1,AllItems.txt
+141,Non Sense Essence,,44287,Carry,0,20,1,1,1607,-1,AllItems.txt
+142,Clotting Cream,,44580,NoCarry,0,20,20,1,1893,-1,EAItems.txt
+143,Repulsion Emulsion,,44287,Carry,0,20,1,1,1607,-1,AllItems.txt
+144,No Green Tea,,25125,Carry,0,21,1,1,-1,-1,AllItems.txt
+145,Tonic De Hedgehog,,25125,Carry,0,21,1,1,-1,-1,AllItems.txt
+146,Hardwood Tincture,,44422,NoCarry,0,21,14,1,1737,-1,EAItems.txt
+147,Dram Stoker,,44579,Carry,0,21,1,1,-1,-1,AllItems.txt
+148,Nightberry Jam,,44788,Carry,0,40,34,1,2084,-1,EAItems.txt
+149,Sugar Plum Jam,,44790,Carry,0,40,45,1,2086,-1,EAItems.txt
+150,Elderberry Jam,,44791,Carry,0,40,60,1,2087,-1,EAItems.txt
+151,Dusk Cherry Jam,,44792,Carry,0,40,56,1,2088,-1,EAItems.txt
+152,Offally Quick Bake,,44647,Carry,0,41,48,1,1951,-1,EAItems.txt
+153,Chop Gooey,,44648,Carry,0,45,26,1,1952,-1,EAItems.txt
+154,Dynasty Broth,,44650,Carry,0,44,33,1,1954,-1,EAItems.txt
+155,Seduction Reduction,,44655,Carry,0,44,34,1,1959,-1,EAItems.txt
+156,Llaranfast,,44649,Carry,0,45,26,1,1953,-1,EAItems.txt
+157,Sunset Driveover,,44657,Carry,0,44,48,1,1961,-1,EAItems.txt
+158,Brackenbarm,,44611,Carry,0,42,26,1,1924,-1,EAItems.txt
+159,Iron Ore,,44368,NoCarry,0,24,8,1,1684,-1,EAItems.txt
+160,Faery Bread,,44796,Carry,0,39,39,1,2092,-1,EAItems.txt
+161,Zinc Ore,,44470,NoCarry,0,24,5,1,1785,-1,EAItems.txt
+162,Gold Ore,,44628,NoCarry,0,24,1,1,1932,-1,AllItems.txt
+163,Silver Ore,,44629,NoCarry,0,24,1,1,1933,-1,AllItems.txt
+164,Tin Ore,,44268,NoCarry,0,24,3,1,1588,-1,EAItems.txt
+165,Shadderwryth Ore,,44536,NoCarry,0,24,10,1,1852,-1,EAItems.txt
+166,Luminium Ore,,44384,NoCarry,0,24,8,1,1699,-1,EAItems.txt
+167,Poison Tongue,,44630,NoCarry,0,33,11,1,1934,-1,EAItems.txt
+168,Hyalite Ore,,44627,NoCarry,0,24,15,1,1931,-1,EAItems.txt
+169,Steel Ore,,44268,NoCarry,0,24,1,1,1588,-1,AllItems.txt
+170,Hyalis Effigy,,44832,NoCarry,0,36,20,1,2122,-1,EAItems.txt
+171,Sword Mould,,44371,NoCarry,0,25,50,1,1687,-1,EAItems.txt
+172,Hammer Mould,,44663,NoCarry,0,25,50,1,1967,-1,EAItems.txt
+173,Cabaret Customisation Bundle,,42336,NoCarry,0,28,500,1,3985,-1,EAItems.txt
+174,Jewellery Mould,,44472,NoCarry,0,25,50,1,1787,-1,EAItems.txt
+175,Arrowhead Mould,,25136,NoCarry,0,25,1,1,-1,-1,AllItems.txt
+176,Decorative Mould,,44661,NoCarry,0,25,50,1,1965,-1,EAItems.txt
+177,Ward Mould,,44471,NoCarry,0,25,30,1,1786,-1,EAItems.txt
+178,Utensils Mould,,44664,NoCarry,0,25,40,1,1968,-1,EAItems.txt
+179,Sickle Mould,,44370,NoCarry,0,25,50,1,1686,-1,EAItems.txt
+180,Shovel Mould,,44423,NoCarry,0,25,10,1,1738,-1,EAItems.txt
+181,Mellowfield Customisation Bundle 2,,42336,NoCarry,0,28,300,1,3985,-1,EAItems.txt
+182,Iron Sword,,44491,NoCarry,0,0,16,1,1804,-1,EAItems.txt
+183,Iron Hammer,,44700,NoCarry,0,26,10,1,2004,-1,EAItems.txt
+184,Iron Charm,,44686,NoCarry,0,26,12,1,3960,-1,EAItems.txt
+185,Iron Jewellery,,44483,NoCarry,0,37,14,1,1796,-1,EAItems.txt
+186,Iron Arrowheads,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+187,Iron Decorative,,44726,NoCarry,0,26,12,1,2030,-1,EAItems.txt
+188,Iron Ward,,44487,NoCarry,0,26,12,1,3968,-1,EAItems.txt
+189,Iron Utensils,,44717,NoCarry,0,26,10,1,2021,-1,EAItems.txt
+190,Iron Sickle,,44497,NoCarry,0,3,14,1,1810,-1,EAItems.txt
+191,Iron Shovel,,44495,NoCarry,0,3,10,1,1808,-1,EAItems.txt
+192,Summerdown Customisation Bundle,,42336,NoCarry,0,28,200,1,3985,-1,EAItems.txt
+193,Copper Sword,,44304,NoCarry,0,0,14,1,1669,-1,EAItems.txt
+194,Copper Hammer,,44701,NoCarry,0,26,9,1,2005,-1,EAItems.txt
+195,Copper Knife,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+196,Copper Jewellery,,44484,NoCarry,0,37,12,1,1797,-1,EAItems.txt
+197,Copper Arrowheads,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+198,Copper Decorative,,44727,NoCarry,0,26,11,1,2031,-1,EAItems.txt
+199,Copper Ward,,44488,NoCarry,0,26,11,1,3966,-1,EAItems.txt
+200,Copper Utensils,,44718,NoCarry,0,26,9,1,2022,-1,EAItems.txt
+201,Copper Sickle,,44404,NoCarry,0,3,13,1,1719,-1,EAItems.txt
+202,Copper Shovel,,44405,NoCarry,0,3,9,1,1720,-1,EAItems.txt
+203,Stockwood Customisation Bundle,,42336,NoCarry,0,28,500,1,3985,-1,EAItems.txt
+204,Zinc Sword,,44492,NoCarry,0,0,10,1,1805,-1,EAItems.txt
+205,Zinc Hammer,,44702,NoCarry,0,26,6,1,2006,-1,EAItems.txt
+206,Zinc Knife,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+207,Zinc Jewellery,,44474,NoCarry,0,37,9,1,1789,-1,EAItems.txt
+208,Zinc Arrowheads,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+209,Zinc Decorative,,44729,NoCarry,0,26,8,1,2033,-1,EAItems.txt
+210,Zinc Ward,,44473,NoCarry,0,26,8,1,3972,-1,EAItems.txt
+211,Zinc Utensils,,44720,NoCarry,0,26,6,1,2024,-1,EAItems.txt
+212,Zinc Sickle,,44498,NoCarry,0,3,9,1,1811,-1,EAItems.txt
+213,Zinc Shovel,,44496,NoCarry,0,3,6,1,1809,-1,EAItems.txt
+214,Gold Axe,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+215,Gold Sword,,44304,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+216,Gold Hammer,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+217,Gold Knife,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+218,Gold Jewellery,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+219,Gold Arrowheads,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+220,Gold Decorative,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+221,Gold Wards,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+222,Gold Utensils,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+223,Gold Sickle,,44252,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+224,Gold Shovel,,44253,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+225,Silver Axe,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+226,Silver Sword,,44304,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+227,Silver Hammer,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+228,Silver Knife,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+229,Silver Jewellery,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+230,Silver Arrowheads,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+231,Silver Decorative,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+232,Silver Wards,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+233,Silver Utensils,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+234,Silver Sickle,,44252,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+235,Silver Shovel,,44253,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+236,Axe,,34839,NoCarry,0,3,10,1,3927,-1,EAItems.txt
+237,Tin Sword,,44403,NoCarry,0,0,11,1,1718,-1,EAItems.txt
+238,Tin Hammer,,44705,NoCarry,0,26,6,1,2009,-1,EAItems.txt
+239,Tin Knife,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+240,Tin Jewellery,,44485,NoCarry,0,37,10,1,1798,-1,EAItems.txt
+241,Tin Arrowheads,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+242,Tin Decorative,,44728,NoCarry,0,26,8,1,2032,-1,EAItems.txt
+243,Tin Ward,,44489,NoCarry,0,26,9,1,3971,-1,EAItems.txt
+244,Tin Utensils,,44722,NoCarry,0,26,8,1,2026,-1,EAItems.txt
+245,Tin Sickle,,44252,NoCarry,0,3,9,1,1572,-1,EAItems.txt
+246,Tin Shovel,,44253,NoCarry,0,3,8,1,1573,-1,EAItems.txt
+247,Woemarsh Customisation Bundle 2,,42336,NoCarry,0,28,400,1,3985,-1,EAItems.txt
+248,Shadderwryth Sword,,44668,NoCarry,0,0,20,1,1972,-1,EAItems.txt
+249,Shadderwryth Hammer,,44670,NoCarry,0,26,13,1,1974,-1,EAItems.txt
+250,Shadderwryth Knife,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+251,Shadderwryth Jewellery,,44665,NoCarry,0,37,17,1,1969,-1,EAItems.txt
+252,Shadderwryth Arrowheads,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+253,Shadderwryth Decorative,,44674,NoCarry,0,26,15,1,1978,-1,EAItems.txt
+254,Shadderwryth Ward,,44666,NoCarry,0,26,15,1,3970,-1,EAItems.txt
+255,Shadderwryth Utensils,,44673,NoCarry,0,26,13,1,1977,-1,EAItems.txt
+256,Shadderwryth Sickle,,44672,NoCarry,0,3,18,1,1976,-1,EAItems.txt
+257,Shadderwryth Shovel,,44671,NoCarry,0,3,13,1,1975,-1,EAItems.txt
+258,Woemarsh Customisation Bundle 1,,42336,NoCarry,0,28,400,1,3985,-1,EAItems.txt
+259,Luminium Sword,,44428,NoCarry,0,0,16,1,1743,-1,EAItems.txt
+260,Luminium Hammer,,44706,NoCarry,0,26,10,1,2010,-1,EAItems.txt
+261,Luminium Knife,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+262,Luminium Jewellery,,44486,NoCarry,0,37,14,1,1799,-1,EAItems.txt
+263,Luminium Arrowheads,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+264,Luminium Decorative,,44734,NoCarry,0,26,12,1,2038,-1,EAItems.txt
+265,Luminium Ward,,44490,NoCarry,0,26,12,1,3969,-1,EAItems.txt
+266,Luminium Utensils,,44725,NoCarry,0,26,10,1,2029,-1,EAItems.txt
+267,Luminium Sickle,,44429,NoCarry,0,3,14,1,1744,-1,EAItems.txt
+268,Luminium Shovel,,44430,NoCarry,0,3,10,1,1745,-1,EAItems.txt
+269,Vale Customisation Bundle,,42336,NoCarry,0,28,100,1,3985,-1,EAItems.txt
+270,Abysstone Sword,,44694,NoCarry,0,0,40,1,1998,-1,EAItems.txt
+271,Abysstone Hammer,,44707,NoCarry,0,26,25,1,2011,-1,EAItems.txt
+272,Abysstone Charm,,44687,NoCarry,0,26,30,1,3957,-1,EAItems.txt
+273,Abysstone Jewellery,,44677,NoCarry,0,37,34,1,1981,-1,EAItems.txt
+274,Abysstone Arrowheads,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+275,Abysstone Decorative,,44730,NoCarry,0,26,30,1,1991,-1,EAItems.txt
+276,Abysstone Ward,,44681,NoCarry,0,26,40,1,3965,-1,EAItems.txt
+277,Abysstone Utensils,,44721,NoCarry,0,26,25,1,2025,-1,EAItems.txt
+278,Abysstone Sickle,,44715,NoCarry,0,3,36,1,2019,-1,EAItems.txt
+279,Abysstone Shovel,,44711,NoCarry,0,3,25,1,2015,-1,EAItems.txt
+280,Mellowfield Customisation Bundle 1,,42336,NoCarry,0,28,300,1,3985,-1,EAItems.txt
+281,Hyalite Sword,,44695,NoCarry,0,0,30,1,1999,-1,EAItems.txt
+282,Hyalite Hammer,,44708,NoCarry,0,26,19,1,2012,-1,EAItems.txt
+283,Eyes of Hyalis Knife,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+284,Hyalite Jewellery,,44678,NoCarry,0,37,26,1,1982,-1,EAItems.txt
+285,Eyes of Hyalis Arrowheads,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+286,Hyalite Decorative,,44731,NoCarry,0,26,23,1,2035,-1,EAItems.txt
+287,Hyalite Ward,,44682,NoCarry,0,26,23,1,3967,-1,EAItems.txt
+288,Hyalite Utensils,,44722,NoCarry,0,26,19,1,2026,-1,EAItems.txt
+289,Hyalite Sickle,,44716,NoCarry,0,3,27,1,2020,-1,EAItems.txt
+290,Hyalite Shovel,,44712,NoCarry,0,3,19,1,2016,-1,EAItems.txt
+291,Steel Axe,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+292,Steel Sword,,44304,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+293,Steel Hammer,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+294,Steel Knife,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+295,Steel Jewellery,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+296,Steel Arrowheads,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+297,Steel Decorative,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+298,Steel Wards,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+299,Steel Utensils,,25136,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+300,Steel Sickle,,44252,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+301,Steel Shovel,,44253,NoCarry,0,26,1,1,-1,-1,AllItems.txt
+302,Dandelion,,44363,Carry,0,2,0,1,1679,-1,EAItems.txt
+303,Tin Bucket,,44257,Carry,0,35,5,1,1577,-1,EAItems.txt
+304,Wooden Bucket,,44256,Carry,0,35,0,1,1576,-1,EAItems.txt
+305,Sugar,,25127,Carry,0,5,2,1,-1,-1,AllItems.txt
+306,Woof Justice: A guide to Dog Owning,,44275,Carry,0,7,7,1,-1,-1,AllItems.txt
+307,Druida Effigy,,44833,NoCarry,0,36,20,1,2114,-1,EAItems.txt
+308,Binding Band,,44251,NoCarry,0,36,50,1,1571,-1,EAItems.txt
+309,Candy Squirrel,,44249,Carry,0,10,2,1,1569,-1,EAItems.txt
+310,Candy Hare,,44248,Carry,0,10,2,1,1568,-1,EAItems.txt
+311,Rose of Romance,,44328,NoCarry,0,36,8,1,1630,-1,EAItems.txt
+312,Go Easy Potion,,44293,NoCarry,0,21,22,1,1613,-1,EAItems.txt
+313,Very Old Spice,,44294,Carry,0,21,10,1,1614,-1,AllItems.txt
+314,Pep Powder,,44292,NoCarry,0,19,32,1,1612,-1,EAItems.txt
+315,Sleeping Powder,,44290,NoCarry,0,19,5,1,1610,-1,AllItems.txt
+316,Potion of Insomnia,,44291,Carry,0,21,5,1,1611,-1,AllItems.txt
+317,Bee Hair Tonic,,44289,Carry,0,21,5,1,1609,-1,AllItems.txt
+318,Rash Be-Gone!,,44287,Carry,0,20,4,1,1607,-1,AllItems.txt
+319,Ache Away,,44288,NoCarry,0,19,3,1,1608,-1,AllItems.txt
+320,Shade-Ward,,25181,Carry,0,2,10,1,-1,-1,AllItems.txt
+321,Lantern Focus Augment,,25181,Carry,0,7,10,1,-1,-1,AllItems.txt
+322,Pickaxe,,44282,Carry,0,3,0,1,1602,-1,EAItems.txt
+323,Key,,25186,NoCarry,0,28,1,1,-1,-1,AllItems.txt
+324,Cuckoo Dew,,44243,Carry,1,31,4,1,1563,-1,EAItems.txt
+325,Pear,,44209,Carry,0,5,4,1,1525,-1,EAItems.txt
+326,Flour,,44221,Carry,0,30,1,1,1541,-1,EAItems.txt
+327,River Trout,,44218,Carry,0,27,7,1,1538,-1,EAItems.txt
+328,Offal Tench,,44219,Carry,0,27,10,1,1539,-1,EAItems.txt
+329,Checkered Chub,,44220,Carry,0,27,6,1,1540,-1,EAItems.txt
+330,Strawberry Jam,,44223,Carry,0,40,15,1,1543,-1,EAItems.txt
+331,Blueberry Jam,,44224,Carry,0,40,13,1,1544,-1,EAItems.txt
+332,Blueberry Pie,,44225,Carry,0,41,20,1,1545,-1,EAItems.txt
+333,Apple Pie,,44226,Carry,0,41,27,1,1546,-1,EAItems.txt
+334,Fish Pie,,44227,Carry,0,41,31,1,1547,-1,EAItems.txt
+335,Mushroom Pie,,44228,Carry,0,41,31,1,1548,-1,EAItems.txt
+336,Plain Bread,,44229,Carry,0,39,3,1,1549,-1,AllItems.txt
+337,Apple Bread,,44230,Carry,0,39,32,1,1550,-1,EAItems.txt
+338,Nettle,,44236,Carry,0,31,6,1,1556,-1,EAItems.txt
+339,Sage,,25186,Carry,0,2,1,1,-1,-1,AllItems.txt
+340,Parsley,,44238,Carry,0,31,7,1,1558,-1,EAItems.txt
+341,Basil,,44239,Carry,0,31,7,1,1559,-1,EAItems.txt
+342,Mint,,44240,Carry,0,31,5,1,1560,-1,EAItems.txt
+343,Thyme,,44241,Carry,0,31,5,1,1561,-1,EAItems.txt
+344,Grave Lilac,,44244,Carry,0,2,16,1,1564,-1,EAItems.txt
+345,Bloodfew,,44245,Carry,0,2,4,1,1565,-1,EAItems.txt
+346,Poppy,,44246,Carry,0,2,9,1,1566,-1,EAItems.txt
+347,Bowing Nancy,,44237,Carry,0,2,5,1,1557,-1,EAItems.txt
+348,Primrose,,44247,Carry,0,2,3,1,1567,-1,EAItems.txt
+349,Red Mine Key,,44285,NoCarry,0,28,0,1,1605,-1,EAItems.txt
+350,Blue Mine Key,,44283,NoCarry,0,28,0,1,1603,-1,EAItems.txt
+351,Green Mine Key,,44286,NoCarry,0,28,25,1,1606,-1,EAItems.txt
+352,Needlenip use,,44275,NoCarry,0,9,50,1,1595,-1,EAItems.txt
+353,Proverb Rainfish #2,,44275,Carry,0,9,40,1,1595,-1,AllItems.txt
+354,Proverb Rainfish #3,,44275,Carry,0,9,40,1,1595,-1,AllItems.txt
+355,Proverb River Trout #1,,44275,Carry,0,9,40,1,1595,-1,AllItems.txt
+356,Proverb River Trout #2,,44275,Carry,0,9,40,1,1595,-1,AllItems.txt
+357,Proverb River Trout #3,,44275,Carry,0,9,40,1,1595,-1,AllItems.txt
+358,Candy Hare location 1,,44275,NoCarry,0,9,3,1,1595,-1,EAItems.txt
+359,Candy Hare location 2,,44275,NoCarry,0,9,3,1,1595,-1,EAItems.txt
+360,Fish of Many Fingers location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+361,Moonfish location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+362,Moonfish location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+363,Moonfish Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+364,Flagfish location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+365,Flagfish location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+366,Flagfish Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+367,Swamflatch location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+368,Swamflatch Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+369,Flickerfin location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+370,Rainfish Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+371,River Trout location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+372,River Trout location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+373,Fish of Many Fingers location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+374,Fish of Many Fingers Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+375,Pumpkin location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+376,Pumpkin location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+377,Pumpkin Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+378,Firefish Use,,44275,NoCarry,0,9,50,1,1595,-1,EAItems.txt
+379,Checkered Chub Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+380,Needlenip location 1,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+381,Needlenip location 2,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+382,Rotten Apple,,44313,Carry,0,5,1,1,1615,-1,EAItems.txt
+383,Proverb Silverscale #1,,44275,Carry,0,9,40,1,1595,-1,AllItems.txt
+384,Proverb Silverscale #2,,44275,Carry,0,9,40,1,1595,-1,AllItems.txt
+385,Proverb Silverscale #3,,44275,Carry,0,9,40,1,1595,-1,AllItems.txt
+386,Fishie Wishie location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+387,Lorianthe location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+388,Candy Hare Use,,44275,NoCarry,0,9,5,1,1595,-1,EAItems.txt
+389,Egg,,44261,Carry,0,32,2,1,1581,-1,EAItems.txt
+390,Chicken Drumstick,,44222,Carry,0,4,12,1,1542,-1,EAItems.txt
+391,Farmers Stew,,44276,NoCarry,392,8,5,1,1596,-1,EAItems.txt
+392,Farmers Stew,,44364,Carry,0,45,20,1,1680,-1,EAItems.txt
+393,Night Milk,,44276,NoCarry,394,8,10,1,1596,-1,EAItems.txt
+394,Night Milk,,44366,Carry,0,44,20,1,1682,-1,EAItems.txt
+395,Apple Pie,,44276,NoCarry,333,8,10,1,1596,-1,EAItems.txt
+396,Blueberry Pie,,44276,NoCarry,332,8,10,1,1596,-1,EAItems.txt
+397,Strawberry Pie,,44276,NoCarry,398,8,10,1,1596,-1,EAItems.txt
+398,Strawberry Pie,,44367,Carry,0,41,20,1,1683,-1,EAItems.txt
+399,Fruits of the Orchard,,44276,NoCarry,400,8,8,1,1596,-1,EAItems.txt
+400,Fruits of the Orchard,,44323,Carry,0,42,21,1,1625,-1,EAItems.txt
+401,Stirling Button Moss Stew,,44276,NoCarry,402,8,9,1,1596,-1,EAItems.txt
+402,Stirling Button Moss Stew,,44324,Carry,0,45,31,1,1626,-1,EAItems.txt
+403,Fish Pie,,44276,NoCarry,334,8,10,1,1596,-1,EAItems.txt
+404,Mushroom Pie,,44276,NoCarry,335,8,10,1,1596,-1,EAItems.txt
+405,Gooseberry,,44299,Carry,7,5,5,1,1664,-1,EAItems.txt
+406,Gooseberry Pie,,44300,Carry,0,41,41,1,1665,-1,EAItems.txt
+407,Naida Effigy,,44840,NoCarry,0,36,20,1,2123,-1,EAItems.txt
+408,Lovers Truffle,,44303,Carry,0,30,12,1,1668,-1,EAItems.txt
+409,Charmweed,,44302,Carry,0,31,4,1,1667,-1,EAItems.txt
+410,Copper Ore,,44305,NoCarry,0,24,7,1,1670,-1,EAItems.txt
+411,Ploppalot Potion,,44377,NoCarry,0,21,8,1,1692,-1,EAItems.txt
+412,Poppy Parfum,,44378,NoCarry,0,20,14,1,1693,-1,AllItems.txt
+413,Whizz Bang Powder,,44381,NoCarry,0,19,4,1,1696,-1,AllItems.txt
+414,Nap Star Powder,,44581,NoCarry,0,19,13,1,1894,-1,EAItems.txt
+415,Wakey Wakey Powder,,44380,NoCarry,0,19,6,1,1695,-1,AllItems.txt
+416,Ab-Synth potion,,44375,NoCarry,0,21,5,1,1690,-1,AllItems.txt
+417,Potion of Vivid Colours,,44382,NoCarry,0,21,12,1,1697,-1,EAItems.txt
+418,Salve-ation,,44379,NoCarry,0,20,9,1,1694,-1,EAItems.txt
+419,Hob Tooth,,44330,NoCarry,0,33,3,1,1632,-1,EAItems.txt
+420,Vial of Slime,,44329,NoCarry,0,33,3,1,1631,-1,EAItems.txt
+421,Brass,,44369,NoCarry,0,28,1,1,1685,-1,EAItems.txt
+422,River Trout Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+423,Offal's Tench location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+424,Offal's Tench location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+425,Flickerfin location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+426,Flickerfin Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+427,Fishie Wishie location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+428,Offal's Tench Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+429,Checkered Chub location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+430,Checkered Chub location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+431,Fishie Wishie Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+432,Lorianthe location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+433,Lorianthe Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+434,Minnow location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+435,Minnow Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+436,Swamflatch location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+437,Firefish location 1,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+438,Firefish location 2,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+439,Minnow location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+440,Obscura,,44373,Carry,0,3,30,1,1689,-1,EAItems.txt
+441,Bucket Mould,,44424,NoCarry,0,25,10,1,1739,-1,EAItems.txt
+442,Copper Bucket,,44406,Carry,0,35,9,1,1721,-1,EAItems.txt
+443,Home Sweet Home,,44374,Carry,0,34,10,1,3987,-1,EAItems.txt
+444,Wooden Key,,44298,NoCarry,0,34,0,1,3988,-1,EAItems.txt
+445,Luminium Bucket,,44431,Carry,0,35,10,1,1746,-1,EAItems.txt
+446,Purple Dye,,44396,NoCarry,0,29,10,1,1711,-1,EAItems.txt
+447,Flickerfin,,44410,Carry,0,27,15,1,1725,-1,EAItems.txt
+448,Fishie Wishie,,44411,Carry,0,27,22,1,1726,-1,EAItems.txt
+449,Swamflatch,,44412,Carry,0,27,9,1,1727,-1,EAItems.txt
+450,Sugar Plums,,44408,Carry,0,5,12,1,1723,-1,EAItems.txt
+451,Gummy Mushroom,,44390,Carry,0,30,7,1,1705,-1,EAItems.txt
+452,Funflower,,44393,Carry,0,2,6,1,1708,-1,EAItems.txt
+453,Pork Tree Seed,,44388,Carry,30,6,4,1,1703,-1,EAItems.txt
+454,Funflower Seed,,44402,Carry,31,6,4,1,1717,-1,EAItems.txt
+455,Songstrell Seed,,44389,Carry,29,6,4,1,1704,-1,EAItems.txt
+456,Songstrell Flower,,44383,Carry,0,2,7,1,1698,-1,EAItems.txt
+457,Pink Dye,,44386,NoCarry,0,29,10,1,1701,-1,EAItems.txt
+458,Green Dye,,44385,NoCarry,9,29,10,1,1700,-1,EAItems.txt
+459,Yum,,44387,Carry,0,38,1,1,1702,-1,EAItems.txt
+460,Gummyyum Pie,,44391,Carry,0,41,24,1,1706,-1,EAItems.txt
+461,Fishywish Pie,,44414,Carry,0,41,71,1,1729,-1,EAItems.txt
+462,Fairy Cake,,44413,Carry,0,42,35,1,1728,-1,EAItems.txt
+463,Blood Red Dye,,44394,NoCarry,9,29,10,1,1709,-1,EAItems.txt
+464,Blonde Dye,,44395,NoCarry,9,29,10,1,1710,-1,EAItems.txt
+465,Black Dye,,44397,NoCarry,9,29,10,1,1712,-1,EAItems.txt
+466,Grey Dye,,44398,NoCarry,9,29,10,1,1713,-1,EAItems.txt
+467,Ginger Dye,,44399,NoCarry,9,29,10,1,1714,-1,EAItems.txt
+468,Brown Dye,,44400,NoCarry,9,29,10,1,1715,-1,EAItems.txt
+469,Blue Dye,,44401,NoCarry,9,29,10,1,1716,-1,EAItems.txt
+470,H.Pepper's Naming Nut,,44407,Carry,6,7,10,1,1722,-1,EAItems.txt
+471,White Rose,,44442,NoCarry,0,36,1,1,1757,-1,EAItems.txt
+472,Pie of You and I,,44444,Carry,0,41,15,1,1759,-1,EAItems.txt
+473,Pie of You and I,,44276,NoCarry,472,8,4,1,1596,-1,EAItems.txt
+474,Apple Bread,,44276,NoCarry,337,8,5,1,1596,-1,EAItems.txt
+475,Plain Bread,,44276,Carry,0,8,5,1,1596,-1,AllItems.txt
+476,Dandelion Soup,,44314,Carry,0,44,3,1,1616,-1,AllItems.txt
+477,Dandelion Soup,,44276,Carry,476,8,5,1,1596,-1,AllItems.txt
+478,Iris,,44415,Carry,0,2,7,1,1730,-1,EAItems.txt
+479,Bogbean,,44416,Carry,0,31,6,1,1731,-1,EAItems.txt
+480,Spearwort,,44417,Carry,0,31,5,1,1732,-1,EAItems.txt
+481,Eel,,44454,Carry,0,27,4,1,1769,-1,EAItems.txt
+482,Pike,,44455,Carry,0,27,6,1,1770,-1,EAItems.txt
+483,Barbel,,44456,Carry,0,27,16,1,1771,-1,EAItems.txt
+484,Pumpkin,,44445,Carry,0,30,8,1,1760,-1,EAItems.txt
+485,Lettuce,,44457,Carry,0,30,4,1,1772,-1,EAItems.txt
+486,Radish,,44458,Carry,0,30,5,1,1773,-1,EAItems.txt
+487,Grapes,,44459,Carry,0,5,7,1,1774,-1,EAItems.txt
+488,Leek,,44433,Carry,0,30,5,1,1748,-1,EAItems.txt
+489,Orchid,,44476,Carry,0,2,7,1,1791,-1,EAItems.txt
+490,Sunflower,,44446,Carry,0,2,4,1,1761,-1,EAItems.txt
+491,Thistle,,44447,Carry,0,2,4,1,1762,-1,EAItems.txt
+492,Pink Rose,,44448,Carry,0,2,5,1,1763,-1,EAItems.txt
+493,Chamomile,,44465,Carry,0,31,4,1,1780,-1,EAItems.txt
+494,Catnip,,44466,Carry,0,31,6,1,1781,-1,EAItems.txt
+495,Ginger,,44467,Carry,0,31,7,1,1782,-1,EAItems.txt
+496,Pumpkin Pie,,44449,Carry,0,41,31,1,1764,-1,EAItems.txt
+497,Peggy Soup,,44450,Carry,0,44,30,1,1765,-1,EAItems.txt
+498,Bush Medley,,44451,Carry,0,42,19,1,1766,-1,EAItems.txt
+499,Hodgepodgestodge,,44452,Carry,0,45,18,1,1767,-1,EAItems.txt
+500,Soup Herman,,44453,Carry,0,44,19,1,1768,-1,EAItems.txt
+501,Pumpkin Essence,,44468,Carry,0,21,7,1,1783,-1,AllItems.txt
+502,Brain in a Jar,,44469,Carry,0,21,7,1,1784,-1,AllItems.txt
+503,Barley Seed,,44462,Carry,43,6,4,1,1777,-1,EAItems.txt
+504,Pumpkin Seed,,44463,Carry,44,6,4,1,1778,-1,EAItems.txt
+505,Lettuce Seed,,44464,Carry,35,6,4,1,1779,-1,EAItems.txt
+506,Rabbit Corndoll,,44499,NoCarry,0,36,5,1,1812,-1,EAItems.txt
+507,Sunflower Seed,,44482,Carry,37,6,4,1,1857,-1,EAItems.txt
+508,Radish Seed,,44481,Carry,45,6,4,1,1856,-1,EAItems.txt
+509,Freyl Effigy,,44841,NoCarry,0,36,20,1,2124,-1,EAItems.txt
+510,Zinc Bucket,,44494,Carry,0,35,6,1,1807,-1,EAItems.txt
+511,Pumpkin Pie,,44276,NoCarry,496,8,10,1,1596,-1,EAItems.txt
+512,Peggy Soup,,44276,NoCarry,497,8,10,1,1596,-1,EAItems.txt
+513,Hodgepodgestodge,,44276,NoCarry,499,8,10,1,1596,-1,EAItems.txt
+514,Soup Herman,,44276,NoCarry,500,8,10,1,1596,-1,EAItems.txt
+515,Bush Medley,,44276,NoCarry,498,8,10,1,1596,-1,EAItems.txt
+516,Gold Bucket,,44494,Carry,0,3,8,1,1807,-1,AllItems.txt
+517,Silver Bucket,,44494,Carry,0,3,8,1,1807,-1,AllItems.txt
+518,Shadderwryth Bucket,,44669,Carry,0,35,13,1,1973,-1,EAItems.txt
+519,Hyalite Bucket,,44699,Carry,0,35,19,1,2003,-1,EAItems.txt
+520,Iron Bucket,,44494,Carry,0,35,10,1,1807,-1,EAItems.txt
+521,Steel Bucket,,44494,Carry,0,3,8,1,1807,-1,AllItems.txt
+522,Abysstone Bucket,,44698,Carry,0,35,25,1,2002,-1,EAItems.txt
+523,Rainfish location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+524,Lettuce location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+525,Lettuce location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+526,Lettuce Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+527,Radish location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+528,Radish location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+529,Radish Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+530,Grapes location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+531,Grapes location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+532,Grapes Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+533,Wheat location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+534,Wheat location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+535,Wheat Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+536,Barley location 1,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+537,Barley location 2,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+538,Barley Use,,44275,NoCarry,0,9,50,1,1595,-1,EAItems.txt
+539,Carrot location 1,,44275,NoCarry,0,9,5,1,1595,-1,EAItems.txt
+540,Carrot location 2,,44275,NoCarry,0,9,5,1,1595,-1,EAItems.txt
+541,Carrot Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+542,Cabbage location 1,,44275,NoCarry,0,9,5,1,1595,-1,EAItems.txt
+543,Cabbage location 2,,44275,NoCarry,0,9,5,1,1595,-1,EAItems.txt
+544,Cabbage Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+545,Apple location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+546,Apple location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+547,Apple Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+548,Pear location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+549,Pear location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+550,Pear Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+551,Strawberry location 1,,44275,NoCarry,0,9,5,1,1595,-1,EAItems.txt
+552,Strawberry location 2,,44275,NoCarry,0,9,5,1,1595,-1,EAItems.txt
+553,Strawberry Use,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+554,Blueberry location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+555,Blueberry location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+556,Blueberry Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+557,Gassy Apple location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+558,Gassy Apple location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+559,Gassy Apple Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+560,Tomato location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+561,Tomato location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+562,Tomato Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+563,Gooseberry location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+564,Gooseberry location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+565,Gooseberry Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+566,Nightberry location 1,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+567,Nightberry location 2,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+568,Nightberry Use,,44275,NoCarry,0,9,50,1,1595,-1,EAItems.txt
+569,Gummy location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+570,Gummy location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+571,Gummy Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+572,Yum location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+573,Yum location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+574,Yum Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+575,Pork Tree location 1,,44275,NoCarry,0,9,10,1,1595,-1,AllItems.txt
+576,Pork Tree location 2,,44275,NoCarry,0,9,10,1,1595,-1,AllItems.txt
+577,Pork Tree Use,,44275,NoCarry,0,9,15,1,1595,-1,AllItems.txt
+578,Sugar Plum location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+579,Sugar Plum location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+580,Sugar Plum Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+581,Elderberry location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+582,Elderberry location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+583,Elderberry Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+584,Dusk Cherry location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+585,Dusk Cherry location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+586,Dusk Cherry Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+587,Heartroot location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+588,Heartroot location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+589,Heartroot Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+590,Orchid location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+591,Orchid location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+592,Orchid Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+593,Sunflower location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+594,Sunflower location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+595,Sunflower Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+596,Thistle location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+597,Thistle location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+598,Thistle Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+599,Pink Rose location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+600,Pink Rose location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+601,Pink Rose Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+602,Dandelion location 1,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+603,Dandelion location 2,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+604,Dandelion Use,,44275,NoCarry,0,9,50,1,1595,-1,EAItems.txt
+605,Cuckoo Dew location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+606,Cuckoo Dew location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+607,Cuckoo Dew Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+608,Grave Lilac location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+609,Grave Lilac location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+610,Grave Lilac Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+611,Bloodfew location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+612,Bloodfew location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+613,Bloodfew Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+614,Primrose location 1,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+615,Primrose location 2,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+616,Primrose Use,,44275,NoCarry,0,9,50,1,1595,-1,EAItems.txt
+617,Rose of Romance location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+618,Rose of Romance location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+619,Rose of Romance Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+620,Poppy location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+621,Poppy location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+622,Poppy Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+623,Bowing Nancy location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+624,Bowing Nancy location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+625,Bowing Nancy Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+626,White Rose location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+627,White Rose location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+628,White Rose Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+629,Lovers Truffle location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+630,Lovers Truffle location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+631,Lovers Truffle Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+632,Charmweed location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+633,Charmweed location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+634,Charmweed Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+635,Little Sap location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+636,Little Sap location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+637,Little Sap Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+638,Funflower location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+639,Funflower location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+640,Funflower Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+641,Songstrell location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+642,Songstrell location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+643,Songstrell Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+644,Sceach Gheal location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+645,Sceach Gheal location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+646,Sceach Gheal Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+647,Luachra location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+648,Luachra location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+649,Luachra Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+650,Caorthann location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+651,Caorthann location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+652,Caorthann Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+653,Ulisis location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+654,Ulisis location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+655,Ulisis Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+656,Chamomile location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+657,Chamomile location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+658,Chamomile Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+659,Catnip location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+660,Catnip location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+661,Catnip Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+662,Ginger location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+663,Ginger location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+664,Ginger Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+665,Basil location 1,,44275,NoCarry,0,9,11,1,1595,-1,EAItems.txt
+666,Basil location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+667,Basil Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+668,Thyme location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+669,Thyme location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+670,Thyme Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+671,Mint location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+672,Mint location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+673,Mint Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+674,Parsley location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+675,Parsley location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+676,Parsley Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+677,Rotten Apple location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+678,Rotten Apple location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+679,Rotten Apple Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+680,Rainbow Mushroom location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+681,Rainbow Mushroom location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+682,Rainbow Mushroom Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+683,Whistleroot location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+684,Whistleroot location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+685,Whistleroot Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+686,Candy Squirrel location 1,,44275,NoCarry,0,9,3,1,1595,-1,EAItems.txt
+687,Candy Squirrel location 2,,44275,NoCarry,0,9,3,1,1595,-1,EAItems.txt
+688,Candy Squirrel Use,,44275,NoCarry,0,9,5,1,1595,-1,EAItems.txt
+689,Pork Chop location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+690,Pork Chop location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+691,Pork Chop Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+692,Egg location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+693,Egg location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+694,Egg Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+695,Chicken Drumstick location 1,,44275,NoCarry,0,9,5,1,1595,-1,EAItems.txt
+696,Chicken Drumstick location 2,,44275,NoCarry,0,9,5,1,1595,-1,EAItems.txt
+697,Chicken Drumstick Use,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+698,Honey location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+699,Honey location 2,,44275,NoCarry,0,9,40,1,1595,-1,AllItems.txt
+700,Honey Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+701,Milk location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+702,Milk location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+703,Milk Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+704,Flour location 1,,44275,NoCarry,0,9,5,1,1595,-1,EAItems.txt
+705,Flour location 2,,44275,NoCarry,0,9,5,1,1595,-1,EAItems.txt
+706,Flour Use,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+707,Bluefish Toastie,,44540,Carry,0,43,35,1,1858,-1,EAItems.txt
+708,Bluefish Toastie,,44276,NoCarry,707,8,10,1,1596,-1,EAItems.txt
+709,Pricklethick,,44541,Carry,0,45,15,1,1859,-1,EAItems.txt
+710,Pricklethick,,44276,NoCarry,709,8,10,1,1596,-1,EAItems.txt
+711,Sleeping Brew Tea,,44441,Carry,0,44,16,1,1756,-1,EAItems.txt
+712,Sleeping Brew Tea,,44276,NoCarry,711,8,10,1,1596,-1,EAItems.txt
+713,Pick-A-Pike Pie,,44542,Carry,0,41,29,1,1860,-1,EAItems.txt
+714,Pick-A-Pike Pie,,44276,NoCarry,713,8,10,1,1596,-1,EAItems.txt
+715,Dusk Cherry,,44502,Carry,0,5,15,1,1818,-1,EAItems.txt
+716,Gooseberry Pie,,44276,NoCarry,406,8,15,1,1596,-1,EAItems.txt
+717,Ploughmans Cob,,44544,Carry,0,39,27,1,1862,-1,EAItems.txt
+718,Ploughmans Cob,,44276,NoCarry,717,8,15,1,1596,-1,EAItems.txt
+719,Fish-Net Stock,,44545,Carry,0,44,21,1,1863,-1,EAItems.txt
+720,Fish-Net Stock,,44276,NoCarry,719,8,15,1,1596,-1,EAItems.txt
+721,Flagfish Pie,,44546,Carry,0,41,71,1,1864,-1,EAItems.txt
+722,Flagfish Pie,,44276,NoCarry,721,8,15,1,1596,-1,EAItems.txt
+723,Spicy Clucking Soup,,44547,Carry,0,44,28,1,1865,-1,EAItems.txt
+724,Spicy Clucking Soup,,44276,NoCarry,723,8,15,1,1596,-1,EAItems.txt
+725,Gooseberry Jam,,44548,Carry,0,40,18,1,1866,-1,EAItems.txt
+726,Gooseberry Jam,,44276,NoCarry,725,8,10,1,1596,-1,EAItems.txt
+727,Serf & Turf,,44549,Carry,0,45,30,1,1867,-1,EAItems.txt
+728,Serf & Turf,,44276,NoCarry,727,8,20,1,1596,-1,EAItems.txt
+729,Hot Chicken Sarnie,,44550,Carry,0,43,27,1,1868,-1,EAItems.txt
+730,Hot Chicken Sarnie,,44276,NoCarry,729,8,15,1,1596,-1,EAItems.txt
+731,Sky-In-The-Pie,,44551,Carry,0,41,65,1,1869,-1,EAItems.txt
+732,Sky-In-The-Pie,,44276,NoCarry,731,8,10,1,1596,-1,EAItems.txt
+733,Stubby Custard,,44543,Carry,0,42,15,1,1861,-1,EAItems.txt
+734,Stubby Custard,,44276,NoCarry,733,8,15,1,1596,-1,EAItems.txt
+735,Risquebisque,,44552,Carry,0,45,50,1,1870,-1,EAItems.txt
+736,Risquebisque,,44276,NoCarry,735,8,10,1,1596,-1,EAItems.txt
+737,Fishy Goodjohns,,44553,Carry,0,41,44,1,1871,-1,EAItems.txt
+738,Fishy Goodjohns,,44276,NoCarry,737,8,20,1,1596,-1,EAItems.txt
+739,Longbread,,44554,Carry,0,39,27,1,1872,-1,EAItems.txt
+740,Longbread,,44276,NoCarry,739,8,15,1,1596,-1,EAItems.txt
+741,Heartroot,,44503,Carry,0,30,11,1,1819,-1,EAItems.txt
+742,Elderberry,,44761,Carry,0,5,16,1,2065,-1,EAItems.txt
+743,Lorianthe,,44530,Carry,0,27,16,1,1846,-1,EAItems.txt
+744,Needlenip,,44531,Carry,0,27,17,1,1847,-1,EAItems.txt
+745,Fish of Many Fingers,,44529,Carry,0,27,14,1,1845,-1,EAItems.txt
+746,Sceach Gheal,,44532,Carry,0,31,12,1,1848,-1,EAItems.txt
+747,Luachra,,44534,Carry,0,31,18,1,1850,-1,EAItems.txt
+748,Caorthann,,44533,Carry,0,31,14,1,1849,-1,EAItems.txt
+749,Ulisis,,44535,Carry,0,31,14,1,1851,-1,EAItems.txt
+750,Forget-Me-Yet Seed,,44555,Carry,46,6,60,1,1777,-1,EAItems.txt
+751,Forget-me-yet flower,,44607,Carry,4,36,20,1,1920,-1,EAItems.txt
+752,Nob Eye,,44560,NoCarry,0,33,4,1,1873,-1,EAItems.txt
+753,Spirit Essence,,44588,NoCarry,0,33,12,1,1901,-1,EAItems.txt
+754,Ancient Cloth,,44562,NoCarry,0,33,10,1,1875,-1,EAItems.txt
+755,Nights Tail,,44563,NoCarry,0,33,8,1,1876,-1,EAItems.txt
+756,Dark Paw,,44564,NoCarry,0,33,10,1,1877,-1,EAItems.txt
+757,Sallow Heart,,44565,NoCarry,0,33,18,1,1878,-1,EAItems.txt
+758,Witching Cloth,,44566,NoCarry,0,33,15,1,1879,-1,EAItems.txt
+759,Amethyst,,44567,NoCarry,0,33,20,1,1880,-1,EAItems.txt
+760,Beast Liver,,44568,NoCarry,0,33,4,1,1881,-1,EAItems.txt
+761,Beast Tail,,44569,NoCarry,0,33,5,1,1882,-1,EAItems.txt
+762,Beast Claw,,44573,NoCarry,0,33,3,1,1886,-1,EAItems.txt
+763,Nymph Wing,,44571,NoCarry,0,33,4,1,1884,-1,EAItems.txt
+764,Glass Tear,,44572,NoCarry,0,33,8,1,1885,-1,EAItems.txt
+765,True Green Go Grit,,44288,NoCarry,0,19,3,1,1608,-1,AllItems.txt
+766,Wind Waker Solution,,44288,NoCarry,0,19,3,1,1608,-1,AllItems.txt
+767,Chest Puff,,44288,NoCarry,0,19,3,1,1608,-1,AllItems.txt
+768,Glad Bag,,44288,NoCarry,0,19,3,1,1608,-1,AllItems.txt
+769,Lucid Sky Diamond Powder,,44288,NoCarry,0,19,3,1,1608,-1,AllItems.txt
+770,Amy Bott's Farsight Powder,,44288,NoCarry,0,19,3,1,1608,-1,AllItems.txt
+771,Saccharinse,,44288,NoCarry,0,19,3,1,1608,-1,AllItems.txt
+772,Voo-Doo-Do-One,,44585,NoCarry,0,19,6,1,1898,-1,EAItems.txt
+773,Shush Mush,,44587,NoCarry,0,20,25,1,1900,-1,EAItems.txt
+774,Pile Driver,,44288,NoCarry,0,19,3,1,1608,-1,AllItems.txt
+775,High Resolution,,44288,NoCarry,0,19,3,1,1608,-1,AllItems.txt
+776,Haste Paste,,44287,Carry,0,20,4,1,1607,-1,AllItems.txt
+777,Bee-Gone!,,44287,Carry,0,20,1,1,1607,-1,AllItems.txt
+778,Ecstatictoplasm,,44287,Carry,0,20,1,1,1607,-1,AllItems.txt
+779,Arc Aid,,44287,Carry,0,20,1,1,1607,-1,AllItems.txt
+780,Brown Keg Brew,,44382,Carry,0,21,1,1,1702,-1,AllItems.txt
+781,No-scaredy Cat Nip,,44382,Carry,0,21,1,1,1702,-1,AllItems.txt
+782,Blues Peter Out,,44382,Carry,0,21,1,1,1702,-1,AllItems.txt
+783,Clear Syphoned Philter,,44382,Carry,0,21,1,1,1702,-1,AllItems.txt
+784,I am Incensed,,44382,Carry,0,21,1,1,1702,-1,AllItems.txt
+785,Blight Flight Spirits,,44382,Carry,0,21,1,1,1702,-1,AllItems.txt
+786,Silence is Golden Syrup,,44382,Carry,0,21,1,1,1702,-1,AllItems.txt
+787,Jinx Drinx,,44382,Carry,0,21,1,1,1702,-1,AllItems.txt
+788,Dose of Reality,,44382,Carry,0,21,1,1,1702,-1,AllItems.txt
+789,Abdo-mend,,44575,NoCarry,0,19,21,1,1888,-1,EAItems.txt
+790,Gulliver Travel,,44576,NoCarry,0,19,11,1,1889,-1,EAItems.txt
+791,Eee-collywobbles,,44574,NoCarry,0,19,5,1,1887,-1,AllItems.txt
+792,Burnout,,44577,NoCarry,0,20,28,1,1890,-1,EAItems.txt
+793,Blind Sear,,44287,NoCarry,0,20,11,1,1607,-1,EAItems.txt
+794,Char-Is-Hard,,44574,NoCarry,0,20,1,1,1887,-1,AllItems.txt
+795,Spring Whiff,,44294,NoCarry,0,21,25,1,1614,-1,EAItems.txt
+796,Hold the Odor!,,44291,NoCarry,0,21,11,1,1611,-1,EAItems.txt
+797,Scent Generique,,44574,NoCarry,0,21,6,1,1887,-1,AllItems.txt
+798,Farsight Potion,,44420,NoCarry,0,21,23,1,1735,-1,EAItems.txt
+799,Flighting Fantasy,,44574,NoCarry,0,21,5,1,1887,-1,AllItems.txt
+800,Angst Away,,44288,NoCarry,0,19,20,1,1608,-1,EAItems.txt
+801,Gusto Wind,,44574,NoCarry,0,19,6,1,1887,-1,AllItems.txt
+802,Dram Stokers Salve,,44579,NoCarry,0,20,36,1,1892,-1,EAItems.txt
+803,Choice Cuts,,44574,NoCarry,0,20,6,1,1887,-1,AllItems.txt
+804,Beautiful Sleeping Powder,,44290,NoCarry,0,19,24,1,1610,-1,EAItems.txt
+805,Conk Out ,,44574,NoCarry,0,19,5,1,1887,-1,AllItems.txt
+806,Consonent Bowel,,44574,NoCarry,0,21,5,1,1887,-1,AllItems.txt
+807,Bone-No,,44582,NoCarry,0,20,25,1,1895,-1,EAItems.txt
+808,P-Unguent,,44574,NoCarry,0,20,5,1,1887,-1,AllItems.txt
+809,Emergency Ward,,44584,NoCarry,0,19,11,1,1897,-1,EAItems.txt
+810,Spirits Upped,,44574,NoCarry,0,19,7,1,1887,-1,AllItems.txt
+811,Poetry in Lotion,,44586,NoCarry,0,20,42,1,1899,-1,EAItems.txt
+812,Chatter Box,,44574,NoCarry,0,20,6,1,1887,-1,AllItems.txt
+813,Poppy Perkup,,44378,NoCarry,0,21,24,1,1693,-1,EAItems.txt
+814,Emotion-in-Motion,,44578,NoCarry,0,21,11,1,1891,-1,EAItems.txt
+815,Lethargy Bargy,,44574,NoCarry,0,21,5,1,1887,-1,AllItems.txt
+816,Ditch Channel No. 8,,44421,NoCarry,0,21,25,1,1736,-1,EAItems.txt
+817,Failed Cure,,44574,NoCarry,0,19,3,1,1691,-1,AllItems.txt
+818,Cranky Old Man,,44574,NoCarry,0,21,6,1,1887,-1,AllItems.txt
+819,Gore Blimey,,44589,NoCarry,0,20,29,1,1902,-1,EAItems.txt
+820,Beast Soother,,44590,NoCarry,0,20,16,1,1903,-1,EAItems.txt
+821,Judith's Charming Charm,,44558,NoCarry,0,34,0,1,3989,-1,EAItems.txt
+822,Bee Gone,,44591,NoCarry,0,20,25,1,1904,-1,EAItems.txt
+823,Buzz Off,,44592,NoCarry,0,20,11,1,1905,-1,EAItems.txt
+824,Heart Root Broth,,44538,Carry,0,44,25,1,1854,-1,EAItems.txt
+825,Jinx Drinx,,44593,NoCarry,0,21,35,1,1906,-1,EAItems.txt
+826,Snitches Brew,,44594,NoCarry,0,21,14,1,1907,-1,EAItems.txt
+827,Heart Root Seed,,44610,Carry,47,6,8,1,1923,-1,EAItems.txt
+828,Cons Table Wine,,44595,NoCarry,0,21,26,1,1908,-1,EAItems.txt
+829,Country Bumpin,,44596,NoCarry,0,21,13,1,1909,-1,EAItems.txt
+830,Heart Root Broth,,44276,NoCarry,824,8,50,1,1596,-1,EAItems.txt
+831,Bust Ghoster,,44597,NoCarry,0,20,38,1,1910,-1,EAItems.txt
+832,Hold Haunts,,44598,NoCarry,0,20,20,1,1911,-1,EAItems.txt
+833,Piscatootle,,44616,Carry,0,34,150,1,3990,-1,EAItems.txt
+834,Glass Lens,,44613,Carry,0,28,10,1,1594,-1,EAItems.txt
+835,Glass Lens,,44612,Carry,0,28,1000,1,1594,-1,EAItems.txt
+836,Glass Lens,,44614,Carry,0,28,2000,1,1594,-1,EAItems.txt
+837,Arc Aid,,44601,NoCarry,0,20,30,1,1914,-1,EAItems.txt
+838,Paracetemol Stars,,44602,NoCarry,0,20,11,1,1915,-1,EAItems.txt
+839,Cemetery Tower Key,,44283,NoCarry,0,28,0,1,1603,-1,EAItems.txt
+840,High Res Solution,,44603,NoCarry,0,19,24,1,1916,-1,EAItems.txt
+841,8 Bit Dust,,44604,NoCarry,0,19,23,1,1917,-1,EAItems.txt
+842,Money Bag,,44427,NoCarry,0,28,1,1,1742,-1,EAItems.txt
+843,Failed Cure,,44574,NoCarry,0,21,3,1,1691,-1,AllItems.txt
+844,Failed Cure,,44574,NoCarry,0,20,3,1,1691,-1,AllItems.txt
+845,Pile Driver,,44599,NoCarry,0,19,21,1,1912,-1,EAItems.txt
+846,Bummed Out,,44600,NoCarry,0,19,6,1,1913,-1,EAItems.txt
+847,Ruby Pendant,,44617,NoCarry,0,34,0,1,1605,-1,EAItems.txt
+848,Mind Blower,,44605,NoCarry,0,21,30,1,1918,-1,EAItems.txt
+849,Cranium Drainium,,44606,NoCarry,0,21,12,1,1919,-1,EAItems.txt
+850,Sapphire Pendant,,44618,NoCarry,0,34,0,1,1605,-1,EAItems.txt
+851,Diamond Pendant,,44619,NoCarry,0,34,0,1,1605,-1,EAItems.txt
+852,Emerald Pendant,,44620,NoCarry,0,34,0,1,-1,-1,EAItems.txt
+853,Bumpa Milk,,27809,Carry,0,38,5,1,1536,-1,EAItems.txt
+854,Tough Skin Powder,,42342,NoCarry,0,19,19,1,2074,-1,EAItems.txt
+855,Silverscale location 2,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+856,Silverscale Use,,44275,NoCarry,0,9,50,1,1595,-1,EAItems.txt
+857,Silverscale location 1,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+858,Healing Cream,,42341,NoCarry,0,20,20,1,2075,-1,EAItems.txt
+859,Cursefish location 1,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+860,Cursefish location 2,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+861,Cursefish Use,,44275,NoCarry,0,9,50,1,1595,-1,EAItems.txt
+862,Flame Phial,,44769,NoCarry,0,21,19,1,2073,-1,EAItems.txt
+863,Stink Bomb,,44768,NoCarry,0,21,35,1,2072,-1,EAItems.txt
+864,Abdo-mend,,44575,NoCarry,0,19,18,1,1888,-1,EAItems.txt
+865,Gulliver Travel,,44576,NoCarry,0,19,12,1,1889,-1,EAItems.txt
+866,Burnout,,44577,NoCarry,0,20,24,1,1890,-1,EAItems.txt
+867,Blind Sear,,44287,NoCarry,0,20,15,1,1607,-1,EAItems.txt
+868,Spring Whiff,,44294,NoCarry,0,21,20,1,1614,-1,EAItems.txt
+869,Hold the Odor!,,44291,NoCarry,0,21,14,1,1611,-1,EAItems.txt
+870,Farsight Potion,,44420,NoCarry,0,21,20,1,1735,-1,EAItems.txt
+871,Potion of Vivid Colours,,44382,NoCarry,0,21,16,1,1697,-1,EAItems.txt
+872,Pep Powder,,44292,NoCarry,0,19,14,1,1612,-1,EAItems.txt
+873,Angst Away,,44288,NoCarry,0,19,10,1,1608,-1,EAItems.txt
+874,Dram Stokers Salve,,44579,NoCarry,0,20,28,1,1892,-1,EAItems.txt
+875,Clotting Cream,,44580,NoCarry,0,20,22,1,1893,-1,EAItems.txt
+876,Beautiful Sleeping Powder,,44290,NoCarry,0,19,14,1,1610,-1,EAItems.txt
+877,Nap Star Powder,,44581,NoCarry,0,19,9,1,1894,-1,EAItems.txt
+878,Go Easy Potion,,44293,NoCarry,0,21,19,1,1613,-1,EAItems.txt
+879,Ploppalot Potion,,44377,NoCarry,0,21,11,1,1692,-1,EAItems.txt
+880,Bone-No,,44582,NoCarry,0,20,19,1,1895,-1,EAItems.txt
+881,Salve-ation,,44379,NoCarry,0,20,4,1,1694,-1,EAItems.txt
+882,Emergency Ward,,44584,NoCarry,0,19,18,1,1897,-1,EAItems.txt
+883,Voo-Doo-Do-One,,44585,NoCarry,0,19,11,1,1898,-1,EAItems.txt
+884,Poetry in Lotion,,44586,NoCarry,0,20,16,1,1899,-1,EAItems.txt
+885,Shush Mush,,44587,NoCarry,0,20,8,1,1900,-1,EAItems.txt
+886,Poppy Perkup,,44378,NoCarry,0,21,22,1,1693,-1,EAItems.txt
+887,Emotion-in-Motion,,44578,NoCarry,0,21,13,1,1891,-1,EAItems.txt
+888,Ditch Channel No. 8,,44421,NoCarry,0,21,20,1,1736,-1,EAItems.txt
+889,Hardwood Tincture,,44422,NoCarry,0,21,15,1,1737,-1,EAItems.txt
+890,Gore Blimey,,44589,NoCarry,0,20,14,1,1902,-1,EAItems.txt
+891,Beast Soother,,44590,NoCarry,0,20,10,1,1903,-1,EAItems.txt
+892,Bee Gone,,44591,NoCarry,0,20,18,1,1904,-1,EAItems.txt
+893,Buzz Off,,44592,NoCarry,0,20,10,1,1905,-1,EAItems.txt
+894,Jinx Drinx,,44593,NoCarry,0,21,30,1,1906,-1,EAItems.txt
+895,Snitches Brew,,44594,NoCarry,0,21,11,1,1907,-1,EAItems.txt
+896,Cons Table Salts,,44595,NoCarry,0,21,23,1,1908,-1,EAItems.txt
+897,Country Bumpin,,44596,NoCarry,0,21,10,1,1909,-1,EAItems.txt
+898,Bust Ghoster,,44597,NoCarry,0,20,26,1,1910,-1,EAItems.txt
+899,Hold Haunts,,44598,NoCarry,0,20,12,1,1911,-1,EAItems.txt
+900,Arc Aid,,44601,NoCarry,0,20,26,1,1914,-1,EAItems.txt
+901,Paracetemol Stars,,44602,NoCarry,0,20,16,1,1915,-1,EAItems.txt
+902,High Res Solution,,44603,NoCarry,0,19,18,1,1916,-1,EAItems.txt
+903,8 Bit Dust,,44604,NoCarry,0,19,16,1,1917,-1,EAItems.txt
+904,Pile Driver,,44599,NoCarry,0,19,18,1,1912,-1,EAItems.txt
+905,Bummed Out,,44600,NoCarry,0,19,11,1,1913,-1,EAItems.txt
+906,Mind Blower,,44605,NoCarry,0,21,26,1,1918,-1,EAItems.txt
+907,Cranium Drainium,,44606,NoCarry,0,21,21,1,1919,-1,EAItems.txt
+908,Copper Charm,,44684,NoCarry,0,26,11,1,3958,-1,EAItems.txt
+909,Tin Charm,,44685,NoCarry,0,26,9,1,3963,-1,EAItems.txt
+910,Zinc Charm,,44688,NoCarry,0,26,8,1,3964,-1,EAItems.txt
+911,Luminium Charm,,44690,NoCarry,0,26,12,1,3961,-1,EAItems.txt
+912,Shadderwryth Charm,,44667,NoCarry,0,26,15,1,3962,-1,EAItems.txt
+913,Charm Mould,,44662,NoCarry,0,25,30,1,1966,-1,EAItems.txt
+914,Venom Sac,,44631,NoCarry,0,33,5,1,1935,-1,EAItems.txt
+915,Hag's Tooth,,44632,NoCarry,0,33,7,1,1936,-1,EAItems.txt
+916,Hag's Hair,,44633,NoCarry,0,33,8,1,1937,-1,EAItems.txt
+917,Hag's Eye,,44773,NoCarry,0,33,9,1,2077,-1,EAItems.txt
+918,Bow,,44774,NoCarry,0,50,0,1,2078,-1,EAItems.txt
+919,Mushroom location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+920,Mushroom location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+921,Mushroom Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+922,Cleansing Water,,44772,NoCarry,0,21,10,1,2076,-1,EAItems.txt
+923,Blessed Water,,44332,NoCarry,0,21,10,1,1634,-1,EAItems.txt
+924,Bee Jar,,44762,NoCarry,0,21,5,1,2066,-1,EAItems.txt
+925,The Silver Nox,,44767,Carry,0,5,100,1,2071,-1,EAItems.txt
+926,Berry Bright Bread,,44797,Carry,0,39,44,1,2093,-1,EAItems.txt
+927,Hokey Hoagie,,44798,Carry,0,43,33,1,2094,-1,EAItems.txt
+928,Angled Wedge,,44799,Carry,0,43,57,1,2095,-1,EAItems.txt
+929,Vera's Victory Veggie,,44800,Carry,0,43,41,1,2096,-1,EAItems.txt
+930,Creek n Coop,,44801,Carry,0,43,47,1,2097,-1,EAItems.txt
+931,Stinging Sponge,,44802,Carry,0,42,21,1,2098,-1,EAItems.txt
+932,Fiery Flan,,44803,Carry,0,41,56,1,2099,-1,EAItems.txt
+933,Strawberry Jam,,44276,NoCarry,330,8,10,1,1596,-1,EAItems.txt
+934,Blueberry Jam,,44276,NoCarry,331,8,10,1,1596,-1,EAItems.txt
+935,Gummyyum Pie,,44276,NoCarry,460,8,20,1,1596,-1,EAItems.txt
+936,Fishywish Pie,,44276,NoCarry,461,8,20,1,1596,-1,EAItems.txt
+937,Grape Jam,,44276,NoCarry,138,8,10,1,1596,-1,EAItems.txt
+938,Nightberry Jam,,44276,NoCarry,148,8,15,1,1596,-1,EAItems.txt
+939,Sugar Plum Jam,,44276,NoCarry,149,8,20,1,1596,-1,EAItems.txt
+940,Elderberry Jam,,44276,NoCarry,150,8,20,1,1596,-1,EAItems.txt
+941,Dusk Cherry Jam,,44276,NoCarry,151,8,20,1,1596,-1,EAItems.txt
+942,Offally Quick Bake,,44276,NoCarry,152,8,10,1,1596,-1,EAItems.txt
+943,Chop Gooey,,44276,NoCarry,153,8,15,1,1596,-1,EAItems.txt
+944,Dynasty Broth,,44276,NoCarry,154,8,10,1,1596,-1,EAItems.txt
+945,Seduction Reduction,,44276,NoCarry,155,8,20,1,1596,-1,EAItems.txt
+946,Llaranfast,,44276,NoCarry,156,8,20,1,1596,-1,EAItems.txt
+947,Sunset Driveover,,44276,NoCarry,157,8,15,1,1596,-1,EAItems.txt
+948,Brackenbarm,,44276,NoCarry,158,8,15,1,1596,-1,EAItems.txt
+949,Faery Bread,,44276,NoCarry,160,8,20,1,1596,-1,EAItems.txt
+950,Berry Bright Bread,,44276,NoCarry,926,8,10,1,1596,-1,EAItems.txt
+951,Hokey Hoagie,,44276,NoCarry,927,8,10,1,1596,-1,EAItems.txt
+952,Angled Wedge,,44276,NoCarry,928,8,10,1,1596,-1,EAItems.txt
+953,Vera's Victory Veggie,,44276,NoCarry,929,8,10,1,1596,-1,EAItems.txt
+954,Creek n Coop,,44276,NoCarry,930,8,10,1,1596,-1,EAItems.txt
+955,Stinging Sponge,,44276,NoCarry,931,8,10,1,1596,-1,EAItems.txt
+956,Fiery Flan,,44276,NoCarry,932,8,20,1,1596,-1,EAItems.txt
+957,Turnip Seed,,44481,Carry,59,6,4,1,1741,-1,EAItems.txt
+958,Terrarium,,44811,Carry,0,34,0,1,3991,-1,EAItems.txt
+959,Aloe Vera location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+960,Weed Skimmer location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+961,Aloe Vera location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+962,Aloe Vera Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+963,Cointail location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+964,Cointail location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+965,Cointail Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+966,Coriander location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+967,Coriander location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+968,Coriander Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+969,Dank Moss location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+970,Dank Moss location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+971,Dank Moss Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+972,Honey location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+973,Milk Moss location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+974,Milk Moss location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+975,Milk Moss Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+976,Nettle location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+977,Nettle location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+978,Nettle Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+979,Salmon location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+980,Salmon location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+981,Salmon Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+982,Sweet Moss location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+983,Sweet Moss location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+984,Sweet Moss Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+985,Turnip location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+986,Turnip location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+987,Turnip Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+988,Weed Skimmer location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+989,Weed Skimmer Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+990,Cellar Key,,44816,NoCarry,0,28,0,1,-1,-1,EAItems.txt
+991,Friendship Ring,,44821,NoCarry,0,34,0,1,3992,-1,EAItems.txt
+992,Torc of Return,,44822,Carry,0,34,0,1,3993,-1,EAItems.txt
+993,Cabaret du Fae token,,44823,Carry,0,34,2000,1,3994,-1,EAItems.txt
+994,Deep Mine Key,,44852,Carry,0,34,0,1,2135,-1,EAItems.txt
+995,Blizzard Staff,,44825,Carry,0,34,10,1,3995,-1,EAItems.txt
+996,Lightning Rod,,44827,Carry,0,34,0,1,3996,-1,EAItems.txt
+997,Music Box,,44826,Carry,0,34,0,1,3997,-1,EAItems.txt
+998,Glass Lens,,44615,Carry,0,28,2000,1,1594,-1,EAItems.txt
+999,Vorpal Sword Mould,,44828,NoCarry,0,25,1,1,1687,-1,EAItems.txt
+1000,Vorpal Sword,,44850,NoCarry,0,0,40,1,2133,-1,EAItems.txt
+1001,Hyalite Charm,,44691,NoCarry,0,26,23,1,3959,-1,EAItems.txt
+1002,Lambton Pie,,33841,Carry,0,41,60,1,3974,-1,EAItems.txt
+1003,Lambton Pie,,44276,NoCarry,1002,8,5,1,1596,-1,EAItems.txt
+1004,Moxy Jam,,44276,NoCarry,1013,8,10,1,1596,-1,EAItems.txt
+1005,Cock-A-Leeky Soup,,44276,NoCarry,1014,8,10,1,1596,-1,EAItems.txt
+1006,Turnip Pie,,44276,NoCarry,1015,8,10,1,1596,-1,EAItems.txt
+1007,Ghoul Hash,,44276,NoCarry,1016,8,5,1,1596,-1,EAItems.txt
+1008,Cursory Glance,,44276,NoCarry,1017,8,50,1,1596,-1,EAItems.txt
+1009,Prime Cordial Soup,,44276,NoCarry,1018,8,50,1,1596,-1,AllItems.txt
+1010,Glutton Free Cake,,44276,NoCarry,1019,8,50,1,1596,-1,EAItems.txt
+1011,Ambrosia,,44276,NoCarry,1020,8,50,1,1596,-1,EAItems.txt
+1012,Luke`s Runner`s Aid Broth,,44276,NoCarry,1021,8,50,1,1596,-1,EAItems.txt
+1013,Moxy Jam,,44789,Carry,0,40,53,1,2085,-1,EAItems.txt
+1014,Cock-A-Leeky Soup,,44438,Carry,0,44,24,1,1753,-1,EAItems.txt
+1015,Turnip Pie,,44439,Carry,0,41,29,1,1754,-1,EAItems.txt
+1016,Ghoul Hash,,44440,Carry,0,45,50,1,1755,-1,EAItems.txt
+1017,Cursory Glance,,44646,Carry,0,45,34,1,1950,-1,EAItems.txt
+1018,Prime Cordial Soup,,44651,Carry,0,44,15,1,1955,-1,AllItems.txt
+1019,Glutton Free Cake,,44652,Carry,0,42,29,1,1956,-1,EAItems.txt
+1020,Ambrosia,,44653,Carry,0,42,40,1,1957,-1,EAItems.txt
+1021,Luke`s Runner`s Aid Broth,,44795,Carry,0,44,31,1,2091,-1,EAItems.txt
+1022,Yellow Toenail,,44639,NoCarry,0,33,8,1,1943,-1,EAItems.txt
+1023,Spriggan Ear,,44641,NoCarry,0,33,5,1,1945,-1,EAItems.txt
+1024,Spikey Tip,,44642,NoCarry,0,33,5,1,1946,-1,EAItems.txt
+1025,Ogyr Blood,,44643,NoCarry,0,33,14,1,1947,-1,EAItems.txt
+1026,Fetid Toe,,44644,NoCarry,0,33,15,1,1948,-1,EAItems.txt
+1027,Blind Mary,,44623,Carry,0,31,14,1,1927,-1,EAItems.txt
+1028,Mandrake,,44624,Carry,0,31,13,1,1928,-1,EAItems.txt
+1029,Cavewort,,44625,Carry,0,31,6,1,1929,-1,EAItems.txt
+1030,Sticky Tongue,,44829,NoCarry,0,33,6,1,2110,-1,EAItems.txt
+1031,Crude Gullet,,44830,NoCarry,0,33,7,1,2111,-1,EAItems.txt
+1032,Phasmasm,,44853,Carry,0,31,20,1,2136,-1,EAItems.txt
+1033,Shanteraag,,44854,Carry,0,31,28,1,2137,-1,EAItems.txt
+1034,Ifferys,,44855,Carry,0,31,27,1,2138,-1,EAItems.txt
+1035,Veill Jam,,44844,Carry,0,40,60,1,2127,-1,EAItems.txt
+1036,Veill Jam,,44276,NoCarry,1035,8,5,1,1596,-1,EAItems.txt
+1037,Continyuum,,44660,Carry,0,42,60,1,1964,-1,EAItems.txt
+1038,Continyuum,,44276,NoCarry,1037,8,5,1,1596,-1,EAItems.txt
+1039,Crude Gullet location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1040,Nymph Wing location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1041,Mudkipper Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1042,Crude Gullet Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1043,Mudkipper location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1044,Mudkipper location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1045,Gasbelly location 1,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+1046,Gasbelly location 2,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+1047,Gasbelly Use,,44275,NoCarry,0,9,50,1,1595,-1,EAItems.txt
+1048,Moxy location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1049,Moxy location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1050,Moxy Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1051,Leek location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1052,Leek location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1053,Leek Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1054,Spearwort location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1055,Spearwort location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1056,Spearwort Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1057,Bogbean location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1058,Bogbean location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1059,Bogbean Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1060,Iris location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1061,Iris location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1062,Iris Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1063,Blind Mary location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1064,Blind Mary location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1065,Blind Mary Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1066,Mandrake location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1067,Mandrake location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1068,Mandrake Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1069,Marshmallow location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1070,Marshmallow location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1071,Marshmallow Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1072,Garlic location 1,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+1073,Garlic location 2,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+1074,Garlic Use,,44275,NoCarry,0,9,50,1,1595,-1,EAItems.txt
+1075,Bogeyman Fungus location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1076,Bogeyman Fungus location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1077,Bogeyman Fungus Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1078,Crystal Beans location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1079,Crystal Beans Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1080,Crystal Beans location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1081,Veill location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1082,Veill location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1083,Veill Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1084,Cavewort location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1085,Cavewort location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1086,Cavewort Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1087,Shanteraag location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1088,Shanteraag Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1089,Phasmasm location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1090,Phasmasm Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1091,Phasmasm location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1092,Ifferys location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1093,Ifferys Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1094,Hob Tooth location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1095,Hob Tooth location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1096,Hob Tooth Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1097,Vial of Slime location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1098,Vial of Slime location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1099,Vial of Slime Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1100,Nob Eye location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1101,Nob Eye location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1102,Nob Eye Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1103,Spirit Essence location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1104,Spirit Essence location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1105,Spirit Essence Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1106,Ancient Cloth location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1107,Ancient Cloth location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1108,Ancient Cloth Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1109,Night`s Tail location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1110,Night`s Tail location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1111,Night`s Tail Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1112,Dark Paw location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1113,Dark Paw location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1114,Dark Paw Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1115,Poison Tongue location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1116,Poison Tongue location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1117,Poison Tongue Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1118,Sallow Heart location 1,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+1119,Sallow Heart location 2,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+1120,Sallow Heart Use,,44275,NoCarry,0,9,50,1,1595,-1,EAItems.txt
+1121,Witching Cloth location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1122,Witching Cloth location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1123,Witching Cloth Use,,44275,NoCarry,0,9,50,1,1595,-1,EAItems.txt
+1124,Witching Cloth Use,,44275,NoCarry,0,9,15,1,1595,-1,AllItems.txt
+1125,Amethyst location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1126,Amethyst location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1127,Amethyst Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1128,Nymph Wing location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1129,Hag`s Eye location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1130,Nymph Wing Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1131,Venom Sac location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1132,Venom Sac location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1133,Venom Sac Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1134,Hag`s Tooth location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1135,Hag`s Tooth location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1136,Hag`s Tooth Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1137,Hag`s Hair location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1138,Hag`s Hair location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1139,Hag`s Hair Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1140,Hag`s Eye location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1141,Hag`s Eye Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1142,Glass Tear location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1143,Glass Tear location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1144,Ifferys location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1145,Glass Tear Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1146,Yellow Toenail location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1147,Yellow Toenail location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1148,Yellow Toenail Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1149,Spriggan Ear location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1150,Spriggan Ear location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1151,Spriggan Ear Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1152,Spiky Tip location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1153,Spiky Tip location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1154,Spiky Tip Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1155,Ogyr Blood location 1,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+1156,Ogyr Blood location 2,,44275,NoCarry,0,9,40,1,1595,-1,EAItems.txt
+1157,Ogyr Blood Use,,44275,NoCarry,0,9,49,1,1595,-1,EAItems.txt
+1158,Fetid Toe location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1159,Fetid Toe location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1160,Fetid Toe Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1161,Stickey Tongue location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1162,Sticky Tongue location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1163,Sticky Tongue Use,,44275,NoCarry,0,9,15,1,1595,-1,EAItems.txt
+1164,Crude Gullet location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1165,Shanteraag location 2,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1166,Fairy Cake,,44276,NoCarry,462,8,50,1,1596,-1,EAItems.txt
+1167,Silver Pendant,,44814,NoCarry,0,37,0,1,4010,-1,EAItems.txt
+1168,Abysstone Ore,,44626,NoCarry,0,24,20,1,1930,-1,EAItems.txt
+1169,Golden Egg,,44263,Carry,0,7,250,1,1583,-1,EAItems.txt
+1170,Fairweather Token,,56075,NoCarry,0,7,0,1,-1,-1,EAItems.txt
+1171,Stamina Token,,56075,Carry,0,29,10,1,-1,-1,EAItems.txt
+1172,Stat Token,,56075,Carry,0,29,10,1,-1,-1,EAItems.txt
+1173,Good Token,,56067,Carry,0,29,0,1,-1,-1,EAItems.txt
+1174,Bad Token,,56059,Carry,0,29,0,1,-1,-1,EAItems.txt
+1175,Legendary Sword 1,,33843,NoCarry,0,0,0,1,3976,-1,EAItems.txt
+1176,Legendary Sword 2,,33844,NoCarry,0,0,0,1,3977,-1,EAItems.txt
+1177,Legendary Sword 3,,33845,NoCarry,0,0,0,1,3978,-1,EAItems.txt
+1178,Legendary Sword 4,,33846,NoCarry,0,0,0,1,3979,-1,EAItems.txt
+1179,Legendary Sword 5,,33847,NoCarry,0,0,0,1,3980,-1,EAItems.txt
+1180,Hammer of the Ancients,,44851,NoCarry,0,34,99,1,2134,-1,EAItems.txt
+1181,Campfire,,33842,Carry,0,34,0,1,3999,-1,EAItems.txt
+1182,Leek Seed,,44845,Carry,61,6,4,1,2128,-1,EAItems.txt
+1183,Crystal Bean Seed,,44846,Carry,77,6,40,1,2129,-1,EAItems.txt
+1184,Pink Rose Seed,,44847,Carry,39,6,4,1,2130,-1,EAItems.txt
+1185,Iris Seed,,44848,Carry,66,6,4,1,2131,-1,EAItems.txt
+1186,Cavewort Seed,,44849,Carry,69,6,4,1,2132,-1,EAItems.txt
+1187,Gnome Mine Key,,44283,NoCarry,0,28,0,1,1603,-1,EAItems.txt
+1188,Worzel`s Grotto Key,,44283,NoCarry,0,28,0,1,1603,-1,EAItems.txt
+1189,Tin Ore location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1190,Copper Ore location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1191,Zinc Ore location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1192,Iron Ore location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1193,Shadderwryth Ore location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1194,Luminium Ore location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1195,Abysstone Ore location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1196,Hyalite Ore location 1,,44275,NoCarry,0,9,10,1,1595,-1,EAItems.txt
+1197,Fog Horn,,36849,Carry,0,34,0,1,4000,-1,EAItems.txt
+1198,Calmonica,,36850,Carry,0,34,0,1,4001,-1,EAItems.txt
+1199,Snowglobe,,36853,Carry,0,34,0,1,4002,-1,EAItems.txt
+1200,Wuther Ring,,36854,Carry,0,34,10,1,4003,-1,EAItems.txt
+1201,Hiya's Synthetic Bucket,,36857,Carry,0,35,0,1,1576,-1,EAItems.txt
+1202,Mockcluckie Seed,,21115,Carry,76,6,4,1,1703,-1,EAItems.txt
+1203,Divine Diviner,,36852,NoCarry,0,34,0,1,4004,-1,EAItems.txt
+1204,Machine Tool,,36855,NoCarry,0,34,1,1,4005,-1,EAItems.txt
+1205,Chemistry Set,,36856,NoCarry,0,34,1,1,4006,-1,EAItems.txt
+1206,Professer Bugpass,,36848,NoCarry,0,34,1,1,4007,-1,EAItems.txt
+1207,Waste-Not,,36851,NoCarry,0,34,1,1,4008,-1,EAItems.txt
+1208,Illustrated Book,,26585,Carry,0,7,0,1,3981,-1,EAItems.txt
+1209,Wood,,42335,NoCarry,2,7,2,1,3982,-1,EAItems.txt
+1210,Stone,,42334,NoCarry,0,7,3,1,3983,-1,EAItems.txt
+1211,Poppyhill Pass,,29560,NoCarry,0,28,0,1,-1,-1,EAItems.txt
+1212,Cosmic Bell,,27929,Carry,0,34,0,1,4009,-1,EAItems.txt
+1213,Meteoryt,,27971,NoCarry,2,7,1000,1,3984,-1,EAItems.txt
+1214,Voide Customisation Bundle,,42336,NoCarry,2,28,2000,1,3985,-1,EAItems.txt
+1215,Tomb Key,,44283,NoCarry,0,28,0,1,1603,-1,EAItems.txt
+1216,NPC Customisation Item,,42337,NoCarry,0,28,1,1,3986,-1,EAItems.txt
+1217,Greenhouse,,42337,NoCarry,0,28,1,1,3986,-1,EAItems.txt
+1218,Lantern Customisation Bundle,,42336,NoCarry,0,28,2000,1,3985,-1,EAItems.txt
+1219,Baby Growth Formula,,42340,NoCarry,6,36,250,1,3934,-1,EAItems.txt
+1220,Muscle Buster,,42338,NoCarry,0,20,10,1,3933,-1,EAItems.txt
+1221,Vigor Mortis,,42339,NoCarry,0,21,10,1,3932,-1,EAItems.txt
+1222,Glittering Giant Tooth,,42343,NoCarry,0,7,25000,1,3956,-1,EAItems.txt
+1223,Warthog,,42344,NoCarry,0,28,20000,1,3955,-1,EAItems.txt
+1224,Placebo Pie,,44226,Carry,0,41,27,1,1546,-1,EAItems.txt
